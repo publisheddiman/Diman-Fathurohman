@@ -1,13 +1,15 @@
 # Ujian Akhir Semester 
 <br>Mata Kuliah 	: Dasar Pemograman
-<br> Nama		      : Diman Fathurohman
-<br>NIM		        :	1227050037
-<br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
+<br> Nama               : Diman Fathurohman
+<br>NIM		        : 1227050037
+<br>Jurusan		: [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
 
+Pengertian Matriks:
 Matriks adalah sekumpulan bilangan yang disusun berdasarkan baris dan kolom, serta ditempatkan di dalam tanda kurung. Nah, tanda kurungnya ini bisa berupa kurung biasa "( )" atau kurung siku "[ ]", ya. Suatu matriks diberi nama dengan huruf kapital, seperti A, B, C, dan seterusnya.
 
+Pengertian Transpose Matriks:
 Transpose matriks adalah matriks baru yang diperoleh dengan cara menukar elemen-elemen baris menjadi elemen kolom atau sebaliknya.
 
 ## Source Code
